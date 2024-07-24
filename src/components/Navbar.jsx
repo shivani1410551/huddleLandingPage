@@ -2,7 +2,7 @@ const Navbar = () => {
   return (
     <nav className="flex justify-between items-center mx-auto p-10">
       <img
-        src={"src/assets/images/logo.svg"}
+        src={"../assets/images/logo.svg"}
         alt="huddle logo"
         className="xs:h-4 sm:h-4 md:h-8"
       />
