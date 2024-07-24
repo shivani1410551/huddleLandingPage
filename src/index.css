@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer componets {
+  .btn {
+    @apply inline-block bg-Pink py-2 px-4 rounded-3xl xs:text-sm sm:text-sm md:px-6 hover:bg-pink-300 focus:bg-pink-300 transition-colors;
+  }
+}
