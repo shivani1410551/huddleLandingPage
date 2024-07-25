@@ -19,7 +19,7 @@ const YourUserSec = () => {
           <div className="mx-auto p-10 sm:flex sm:flex-row-reverse">
             <div className="img-box sm:w-1/2">
               <img
-                src={"src/assets/images/illustration-your-users.svg"}
+                src={"./assets/images/illustration-your-users.svg"}
                 alt="you-users-illustration"
                 className="xs:h-[12rem] sm:h-[12rem]  mx-auto"
               />
