@@ -1,12 +1,10 @@
-import React from "react";
-
 const GrowTogethersec = () => {
   return (
     <section className="features-section ">
       <div className="growTogether ">
         <div className="bg-image-top ">
           <img
-            src={"src/assets/images/bg-section-top-mobile-1.svg"}
+            src={"./assets/images/bg-section-top-mobile-1.svg"}
             alt="mobile-top-image"
             className="
             xm:block
@@ -14,7 +12,7 @@ const GrowTogethersec = () => {
           />
 
           <img
-            src={"src/assets/images/bg-section-top-desktop-1.svg"}
+            src={"./assets/images/bg-section-top-desktop-1.svg"}
             alt="desktop-top-image"
             className="xs:hidden  sm:block  bg-no-repeat"
           />
@@ -24,7 +22,7 @@ const GrowTogethersec = () => {
           <div className="mx-auto p-10 sm:flex  sm:flex-row-reverse">
             <div className="img-wrapper sm:w-1/2">
               <img
-                src={"src/assets/images/illustration-grow-together.svg"}
+                src={"./assets/images/illustration-grow-together.svg"}
                 alt="grow-together-illustration"
                 className="xs:h-[12rem] sm:h-[12rem]  mx-auto sm:col-start-2  "
               />

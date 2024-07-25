@@ -4,12 +4,12 @@ const YourUserSec = () => {
       <div className="Your user ">
         <div className="bg-image-bottom">
           <img
-            src={"src/assets/images/bg-section-top-mobile-2.svg"}
+            src={"./assets/images/bg-section-top-mobile-2.svg"}
             alt="bg-mobile-2-bottom"
             className="xs:block sm:hidden mx-auto px-0  bg-no-repeat"
           />
           <img
-            src={"src/assets/images/bg-section-top-desktop-2.svg"}
+            src={"./assets/images/bg-section-top-desktop-2.svg"}
             alt="bg-desktop-2"
             className="xs:hidden  sm:block  bg-no-repeat"
           />

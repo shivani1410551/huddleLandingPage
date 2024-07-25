@@ -3,12 +3,12 @@ const CallToAction = () => {
     <section>
       <div className="bg-image-bottom">
         <img
-          src={"src/assets/images/bg-section-bottom-mobile-2.svg"}
+          src={"./assets/images/bg-section-bottom-mobile-2.svg"}
           alt="bg-mobile-2-bottom"
           className="xs:block sm:hidden mx-auto px-0  bg-no-repeat"
         />
         <img
-          src="src/assets/images/bg-section-bottom-desktop-2.svg"
+          src="./assets/images/bg-section-bottom-desktop-2.svg"
           alt="bg-desktop-2"
           className="xs:hidden bg-no-repeat sm:block"
         />

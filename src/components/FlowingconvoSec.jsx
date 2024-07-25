@@ -6,12 +6,12 @@ const FlowingconvoSec = () => {
       <div className="flowingConvo ">
         <div className="bg-image-bottom">
           <img
-            src={"src/assets/images/bg-section-bottom-mobile-1.svg"}
+            src={"./assets/images/bg-section-bottom-mobile-1.svg"}
             alt="bg-mobile-bottom"
             className="sm:hidden mx-auto px-0  bg-no-repeat xs:block"
           />
           <img
-            src={"src/assets/images/bg-section-bottom-desktop-2.svg"}
+            src={"./assets/images/bg-section-bottom-desktop-2.svg"}
             alt="bg-desktop-2"
             className="xs:hidden sm:block  bg-no-repeat"
           />
@@ -21,7 +21,7 @@ const FlowingconvoSec = () => {
           <div className="mx-auto p-10 grid sm:grid-cols-2 justify-center items-center">
             <div className="img-box">
               <img
-                src={"src/assets/images/illustration-flowing-conversation.svg"}
+                src={"./assets/images/illustration-flowing-conversation.svg"}
                 alt="grow-together-illustration"
                 className="xs:h-[12rem] sm:h-[12rem]  mx-auto  bg-no-repeat "
               />

@@ -17,13 +17,13 @@ const Footer = () => {
     <footer>
       <div className="bg-image-top ">
         <img
-          src={"src/assets/images/bg-footer-top-mobile.svg"}
+          src={"./assets/images/bg-footer-top-mobile.svg"}
           alt="mobile-top-image"
           className="sm:hidden mx-auto px-0 bg-no-repeat xs:block"
         />
 
         <img
-          src={"src/assets/images/bg-footer-top-desktop.svg"}
+          src={"./assets/images/bg-footer-top-desktop.svg"}
           alt="desktop-top-image"
           className="xs:hidden sm:block  bg-no-repeat"
         />
@@ -67,7 +67,7 @@ const Footer = () => {
         <div>
           <div className="main-footer mt-[6rem] grid xs:gap-4 sm:gap-4 ">
             <img
-              src={"src/assets/images/logoCopy.svg"}
+              src={"./assets/images/logoCopy.svg"}
               alt="footer-logo"
               className="w-[8.75rem]"
             />
@@ -79,7 +79,7 @@ const Footer = () => {
               <li>
                 <a href="#" className="text-xs text-gray-300 font-secondary">
                   <img
-                    src={"src/assets/images/icon-phone.svg"}
+                    src={"./assets/images/icon-phone.svg"}
                     alt="phone logo"
                     className="inline-block pr-4"
                   />
@@ -89,7 +89,7 @@ const Footer = () => {
               <li>
                 <a href="#" className="text-xs text-gray-300 font-secondary">
                   <img
-                    src={"src/assets/images/icon-email.svg"}
+                    src={"./assets/images/icon-email.svg"}
                     alt="email logo"
                     className="inline-block pr-4"
                   />

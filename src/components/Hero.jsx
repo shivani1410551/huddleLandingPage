@@ -21,7 +21,7 @@ const Hero = () => {
           </div>
           <div className="hero-image-box">
             <img
-              src={"src/assets/images/screen-mockups.svg"}
+              src={"./assets/images/screen-mockups.svg"}
               alt="screen mockup hero image"
               className="md:w-[30rem] md:mx-auto"
             />
@@ -32,7 +32,7 @@ const Hero = () => {
         <ul className="flex sm:flex-col xs:flex-col xs:items-center  xs:gap-6 sm:gap-6 md:flex-row  md:justify-evenly">
           <li>
             <img
-              src={"src/assets/images/icon-communities.svg"}
+              src={"./assets/images/icon-communities.svg"}
               alt="communities"
               className="h-5 mb-2 inline-block"
             />
@@ -43,7 +43,7 @@ const Hero = () => {
           </li>
           <li>
             <img
-              src={"src/assets/images/icon-messages.svg"}
+              src={"./assets/images/icon-messages.svg"}
               alt="communities"
               className="h-5 mb-2 inline-block"
             />
